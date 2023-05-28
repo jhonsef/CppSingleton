@@ -1,5 +1,8 @@
 # Singleton guy
 
+### [Learn more about Singleton](https://refactoring.guru/design-patterns/singleton)
+### [Using this tutorial for my implementation](https://refactoring.guru/design-patterns/singleton/cpp/example#example-1)
+
 To run:
 
 ```
